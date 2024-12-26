@@ -5,7 +5,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
     padding: 0px 240px;
     /* Using a gradient for a more dynamic background */
-    background: linear-gradient(to right, #2980b9, #6dd5fa); /* Example gradient */
+    background: #2980b9;
     height: 1200px;
     /* Added background-attachment for a fixed background effect */
     background-attachment: fixed;
