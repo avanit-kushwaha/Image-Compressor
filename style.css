@@ -1,11 +1,14 @@
 /* optional */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
 
-body{
+body {
     font-family: 'Noto Sans', sans-serif;
     padding: 0px 240px;
-    background-color: #f86161;
+    /* Using a gradient for a more dynamic background */
+    background: linear-gradient(to right, #2980b9, #6dd5fa); /* Example gradient */
     height: 1200px;
+    /* Added background-attachment for a fixed background effect */
+    background-attachment: fixed;
 }
 .container{
     background-color: #ffffff17;
